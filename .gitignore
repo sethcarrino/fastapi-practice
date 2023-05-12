@@ -3,4 +3,4 @@
 /fastapienv/
 
 .env
-todosapp.db
+*.db
