@@ -12,7 +12,7 @@ import sys
 sys.path.append("..")
 
 
-SECRET_KEY = "KlgH6AzYDeZeGwD288to79I3vTHT8wp7"
+SECRET_KEY = "ac305a29486da6b85f05b4464e6509c99d3ffb54e1f4ac3f82eca3fb6101d37d"
 ALGORITHM = "HS256"
 
 
